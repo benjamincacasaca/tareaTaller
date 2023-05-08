@@ -1,0 +1,1 @@
+Denominadas a veces como metodologías pesadas por tener documentación exhaustiva del proyecto, rigurosa definición de roles, especificaciones precisas de requisitos y modelado. Esta metodología es inadecuada para entornos donde los requisitos no pueden predecirse o pueden variar
